@@ -1,2 +1,2 @@
-# FirstProg
-Для навчання
+#ss
+I'm a first year student
